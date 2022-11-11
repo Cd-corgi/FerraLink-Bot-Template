@@ -7,7 +7,7 @@
 Install the package:
 
 ```
-npm i ferralink
+npm i ferra-link
 ```
 
 > 📹 Video Guide: [Youtube Tutorial](https://youtu.be/1CH7JekBITo)
