@@ -1,0 +1,15 @@
+{
+    "token": "BOT TOKEN HERE",
+    "botID": "BOT ID HERE",
+    "mongoose": "MONGOOSE URI HERE (OPTIONAL)",
+    "node": [
+        {
+            "name": "Lavalink Server",
+            "url": "Your Hosting url:port",
+            "auth": "password",
+            "secure": false
+        }
+    ],
+    "clientId": "SPOTIFY CLIENT ID",
+    "clientSecret": "SPOTIFY SECRET CLIENT"
+}
